@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "base_track": "Last Party Never End",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-28T08:21:03.322368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Party Never End",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/01_Last_Party_Never_End_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Party Never End (feat. Tiji Jojo, YZERR, Vingo & Yellow Pato)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/02_Last_Party_Never_End_(feat._Tiji_Jojo,_YZERR,_Vingo_&_Yellow_Pato)_BAD_HOP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Party Never End (feat. Tiji Jojo, YZERR, Vingo & Yellow Pato)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Party_Never_End_(feat._Tiji_Jojo,_YZERR,_Vingo_&_Yellow_Pato)_BAD_HOP.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Last Party Never End",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/localdb_01_Last_Party_Never_End_BAD_HOP.lrc",
+      "repo_name": "9RYrUUmtKwg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Last Party Never End",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/localdb_02_Last_Party_Never_End_BAD_HOP.lrc",
+      "repo_name": "NcMfwZ8AgRI"
+    }
+  ]
+}
